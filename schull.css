@@ -1,0 +1,238 @@
+* {
+ margin: 0;
+ padding: 0;
+box-sizing: border-box;
+}
+
+body {
+ background-color: black;
+ background-position: center;
+}
+.main {
+ font-family: 'Times New Roman';
+ font-size: 30px;
+ color: aliceblue;
+}
+
+.header {
+ font-family: 'Times New Roman';
+ font-size: 10px;
+ color: aliceblue;
+}
+
+.header2 {
+  padding-left: 20px;
+  
+}
+
+.header3 {
+font-family: 'Times New Roman';
+ font-size: 32px;
+ color: rgba(214, 205, 21, 0.956);
+ width: 300px;
+ padding: 20px;
+}
+
+b{
+ display: flow-root;
+  
+}
+
+
+.P1 {
+ font-family: 'Times New Roman';
+  font-size: 18px;
+  color: rgb(242, 247, 244);
+  padding: 20px;
+}
+
+
+
+ul {
+ display: flex;
+ position: relative;
+ align-items: center;
+ justify-content: right;
+ width: 100%;
+  height: 75px;
+  margin: auto;
+}
+
+ul li {
+ list-style: none;
+ margin-left: 62px;
+ margin-top: 7px;
+ font-size: 25px;
+ color: white;
+ font-family:'Times New Roman', Times, serif;
+ cursor: pointer;
+ transition: 0.5s;
+}
+
+ul li .side {
+  justify-content: left;
+}
+
+button {
+ width: 160px;
+  height: 40px;
+  border: none;
+  background: #eaf20a;
+  margin-bottom: 10px;
+  margin-left: 20px;
+  border-radius: 10px;
+  cursor: pointer;
+  font-size: 18px;
+}
+
+img{
+ display: flex;
+  position: static;
+  align-items:flex-end;
+  justify-content:end;
+  width: 40%;
+  height: 320px;
+  margin: auto;
+ }
+
+
+
+.center1 {
+ align-items: center;
+ justify-content: center;
+ font-family: 'Times New Roman';
+ font-size: 15px;
+ color: rgb(191, 225, 22);
+ margin-left: 300px;
+ margin-right: 300px;
+}
+
+.center2 {
+ align-items: center;
+ justify-content: center;
+ font-family: 'Times New Roman';
+ font-size: 15px;
+ color: rgb(255, 255, 255);
+}
+
+.h3 {
+ font-size: 25px;
+}
+.h4{
+ font-size: 25px;
+ animation:both;
+}
+
+.Backg1 {
+ height: 120px;
+ width: 20%;
+ color: black;
+ background-color: #eaf20a;
+}
+
+.Backg2 {
+background-color: white;
+color: black;
+position: relative;
+height: 120px;
+width: 80%;
+padding-left: 50px;   
+}
+
+.float{
+  float: left;
+}
+.lists{
+  display: flex;
+  justify-content: center;
+}
+
+.about{
+font-size: 30px;
+}
+
+.down{
+padding-top: 15%;
+}
+
+.para{
+ height: 200px;
+align-items: center;
+justify-items: center;
+color: black;
+text-align: center;
+background-color: white;
+padding-left: 200px;
+padding-right: 200px;
+font-size: 20px;
+}
+
+.down2{
+ padding-top: 15%;
+ 
+}
+
+.para2 {
+ height: 200px;
+ align-items: right;
+ justify-items: right;
+ color: white;
+ text-align: right;
+ padding-left: 180px;
+ padding-right: 20px;
+ font-size: 20px;
+}
+
+.Sex{
+color: yellow;
+}
+
+.down3 {
+ padding-top: 15%;
+
+}
+
+.para3 {
+ height: 200px;
+ align-items: left;
+ justify-items: left;
+ color: white;
+ text-align: left;
+ padding-left: 20px;
+ padding-right: 180px;
+ font-size: 20px;
+}
+
+.goal {
+ color: yellow;
+}
+
+.down4 {
+  padding-top: 15%;
+
+}
+
+.para4 {
+  height: 150px;
+  align-items: center;
+  justify-items: center;
+  color: white;
+  text-align:center;
+  background-color: yellow;
+  padding-left: 200px;
+  padding-right: 200px;
+  font-size: 17px;
+}
+
+
+  button2 {
+      width: 160px;
+      height: 40px;
+      border: none;
+      background: blacks;
+      margin-bottom: 10px;
+      margin-left: 20px;
+      border-radius: 10px;
+      cursor: pointer;
+      font-size: 18px;
+    }
